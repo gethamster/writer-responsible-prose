@@ -76,6 +76,20 @@ Good: `A liquid spot market raises revenue and lets prices clear unused hours, w
 
 Test: if sentence 2's subject is a noun phrase copied out of sentence 1, it is a relay, so use *which* or *so*.
 
+## 7. Passive and subjectless sentences
+
+Template: the actor is hidden by a passive, or the subject is gone entirely and a verbless fragment stands in for a sentence. The same pro-drop instinct that produces headless topics also produces sentences where nobody does anything.
+
+Bad: `No configuration file needed. The results are preserved automatically.`
+
+Good: `You do not need a configuration file. The system preserves the results automatically.`
+
+Bad: `The options come from the selected item, no guessing.`
+
+Good: `The options come from the selected item, so the user never has to guess.`
+
+Test: ask who does this. If the sentence cannot answer, restore the actor, unless the actor is genuinely unknown or beside the point.
+
 ## Merge rule
 
 When in doubt:
