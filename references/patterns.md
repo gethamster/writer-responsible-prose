@@ -60,7 +60,7 @@ Template: `The ABSTRACT is DEFINITION. That is what / where CLAUSE.`
 
 Bad: `The winning business case is tokens delivered at a latency. That is what buyers pay for, and where spare shows up hour by hour. GPU-hours hide the mix and the time of day.`
 
-Good: `Buyers pay for tokens delivered at a latency, not for GPU-hours. Spare capacity shows up hour by hour; GPU-hours flatten the mix and the time of day.`
+Good: `Buyers pay for tokens delivered at a latency. Spare capacity shows up hour by hour; GPU-hours flatten the mix and the time of day.`
 
 Do not "fix" this with a sales closer (`I can help you make a business case`); keep the claim and kill the frame.
 
@@ -75,6 +75,26 @@ Bad: `A liquid spot market raises revenue and lets price discovery smooth utiliz
 Good: `A liquid spot market raises revenue and lets prices clear unused hours, which smooths utilization and makes the next cluster cheaper to finance.`
 
 Test: if sentence 2's subject is a noun phrase copied out of sentence 1, it is a relay, so use *which* or *so*.
+
+## 7. Avoid qualifying statements
+
+Template: `CLAIM. OTHER THING does not / cannot / need not imply CLAIM.`
+
+Write in the affirmative and give each sentence a distinct purpose. Convert a useful qualification into a direct statement of the condition, scope, or process. Remove a qualification that only rebuts an imagined objection. Check the whole paragraph for repeated claim-and-rebuttal pairs, including qualifications introduced with *but*, *while*, or *not automatically*.
+
+Bad: `Providers must sustain improvements in throughput and latency before earning higher performance grades. Recovery checks alone cannot improve a provider's performance grade.`
+
+Good: `Providers must sustain improvements in throughput and latency before earning higher performance grades.`
+
+Bad: `Restrictions apply to the affected GPU supply. A problem with one model need not make other models unavailable, while a shared credential problem can affect multiple connections. Incomplete or ambiguous evidence does not establish recovery.`
+
+Good: `The market restricts GPU supply affected by a fault. A model-specific fault affects that model's supply; a shared credential fault can affect multiple connections. Confirming recovery requires complete, unambiguous evidence.`
+
+Bad: `The market assigns serving-fidelity grades according to its evidence and validation requirements. Individual automated assessments and buyer reports do not automatically change fidelity grades.`
+
+Good: `The market assigns serving-fidelity grades after validating serving evidence against its grading requirements.`
+
+Test: what fact does the qualification add? If it supplies a necessary condition, state that condition directly. If it only denies an unasked alternative, cut it. Preserve the original level of certainty and every condition needed to understand or act on the claim.
 
 ## Merge rule
 
