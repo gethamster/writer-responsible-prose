@@ -33,11 +33,12 @@ writer-responsible-prose/
 - Headless topics (`Spare moves around the day`)
 - Prestige equatives (`The winning business case is…`)
 - Nominalization relays (`…smooth utilization. Smoother utilization is how…`)
+- Unsolicited qualifying statements (`X happens. Y does not mean X.`)
 - Office leftovers (`kindly`, `revert`, `do the needful`, `the same`)
 
 ## What it does instead
 
-Fold the label into the fact, repeat the noun, put consequences in *which* / *so* / *because*, and use concrete subjects.
+Fold the label into the fact, repeat the noun, put consequences in *which* / *so* / *because*, and use concrete subjects. Write statements in the affirmative, expressing conditions directly and giving each sentence a distinct fact.
 
 ## License
 
