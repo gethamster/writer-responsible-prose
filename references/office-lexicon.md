@@ -2,7 +2,9 @@
 
 Swap on sight; replace rather than tone down.
 
-## Indian-office phrasing
+## Administrative boilerplate
+
+Terms vary by region. This list covers office English retained from British colonial administration in South Asia, and the same register appears elsewhere. Match the pattern, not just these exact words.
 
 | Don't | Do |
 |---|---|

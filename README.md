@@ -4,7 +4,7 @@ Agent skill that stops a model from writing in Hindi/Indo-Aryan topic-comment ca
 
 American written English names its noun and subordinates the label. Hindi and other Indo-Aryan languages mark given vs new information by position and by dropping recoverable nouns, and Indian English inherited that information structure. LLMs independently learned a cousin of it because "declare, then relabel" looks like clarity, and the combination is the official, academic, off cadence this skill kills.
 
-A register converter, not a verdict on Indian English as a variety. The skill files themselves have to follow the rules.
+A register converter, not a verdict on any variety of English or the people who speak it. The skill targets a habit of information structure, which spreads through second-language English and office registers and which models then amplify. The skill files themselves have to follow the rules.
 
 ## Install
 
