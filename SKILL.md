@@ -1,6 +1,6 @@
 ---
 name: writer-responsible-prose
-description: Write and edit English so it uses American writer-responsible information structure instead of Hindi or Indo-Aryan topic-comment cadence and LLM caption sentences. Use when drafting, editing, rewriting, or reviewing prose, bullets, emails, memos, product copy, or posts. Also use when the user mentions Indian English, topic-comment, staccato, that is, is what, captions after a period, headless bullets, anti-slop, American register, or asks to make writing sound American.
+description: Write and edit English so it uses American writer-responsible information structure instead of topic-comment cadence, pro-drop subjects, and LLM caption sentences. Use when drafting, editing, rewriting, or reviewing prose, bullets, emails, memos, product copy, or posts. Also use when the user mentions Indian English, topic-comment, staccato, that is, is what, captions after a period, headless bullets, anti-slop, American register, or asks to make writing sound American.
 license: MIT
 metadata:
   version: "1.4"
@@ -9,9 +9,11 @@ metadata:
 
 # Writer-Responsible Prose
 
-American explanatory English names its noun and subordinates the label. Hindi and other Indo-Aryan languages hang given information out front as a topic, drop recoverable nouns, and put the comment in the next clause. Indian English inherited that information structure, and LLMs independently learned the same move because "declare, then relabel" looks like clarity to a reward model, so the two together produce a cadence Americans hear as official, academic, and off.
+American explanatory English names its noun and subordinates the label. Many languages carry a topic-comment information structure where given information comes first and the comment follows, and speakers of those languages drop recoverable nouns when writing English. Indo-Aryan languages such as Hindi and Bengali do this, and so do topic-prominent languages elsewhere in Asia such as Chinese, Japanese, and Korean. Speakers who learned English as a second language carry that structure into written English, and the same move also survives in office registers inherited from colonial administration.
 
-This skill converts into American written register without treating Indian English as broken.
+Models trained on that text learn the pattern independently, because "declare, then relabel" looks like clarity to a reward model, so the sources reinforce each other and produce a cadence American readers hear as official, academic, and off.
+
+This skill converts prose into American written register. The target is a habit of structure, not a judgment about any variety of English or the people who speak it.
 
 These files must follow their own rules. Caption sentences, staccato equatives, and `is what` clefts are banned here too, except inside `Bad:` examples.
 
@@ -46,11 +48,11 @@ Ban these templates on sight and rewrite them rather than polishing them.
 | `X. That is Y.` / `X. This is Y.` | Caption after a period, a reversed pseudo-cleft used as a reformulation. | Merge to `X, which is Y` / `X, Y` / `X, so Y`. |
 | `X is what Y` / `X is how Y` / `X is where Y` / `That's what Y` | Specificational cleft that pretends to name an essence and usually adds nothing. | `X that Y` or `Y because X`. |
 | Three short `NP is NP` sentences in a row | Parataxis / staccato burst, the LLM default punch. | Join two of them with *and*, *so*, or a semicolon. |
-| Bare topic as subject (`Spare moves…`, `Quiet hours clear…` with no noun) | Unlinked topic plus pro-drop from Indo-Aryan, which leaves the reader to supply the noun. | `Spare capacity moves…` |
+| Bare topic as subject (`Spare moves…`, `Quiet hours clear…` with no noun) | Unlinked topic plus a dropped noun, which leaves the reader to supply it. | `Spare capacity moves…` |
 | `The [abstract noun] is [definition].` | Copular equative with a prestige subject. | State the claim and drop the frame. |
 | Next sentence starts with a nominalization stripped from the last one | Relay race of abstractions. | Use *which* / *so*, or keep a concrete subject. |
 
-Also drop Indian-office leftovers. Full list in [references/office-lexicon.md](references/office-lexicon.md). Never write *kindly*, *revert* (for reply), *do the needful*, *the same*, *prepone*, *out of station*, *humble request*, *for your kind perusal*.
+Also drop administrative boilerplate. Full list in [references/office-lexicon.md](references/office-lexicon.md). Never write *kindly*, *revert* (for reply), *do the needful*, *the same*, *prepone*, *out of station*, *humble request*, *for your kind perusal*.
 
 ## Tiny examples
 
